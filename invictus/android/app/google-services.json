@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "638937567376",
+    "project_id": "invictus-8f34a",
+    "storage_bucket": "invictus-8f34a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638937567376:android:385cb57f13d3d442a78815",
+        "android_client_info": {
+          "package_name": "com.example.invictus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638937567376-7uqpocfopco6dohfsdu1oo0ssbd8m2g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invictus",
+            "certificate_hash": "4523851c51d0afd44b542a940d67aad4cebc6047"
+          }
+        },
+        {
+          "client_id": "638937567376-0o8c4n5taaeaa6cdqjj9je874jc3fh0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFFKvBOqCPzzvlJgfi6PpUDxDoTX0Eyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638937567376-0o8c4n5taaeaa6cdqjj9je874jc3fh0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638937567376-rih03s9i9312p8apihsmrjrafpd852hn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.invictus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
