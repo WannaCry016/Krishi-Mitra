@@ -2,7 +2,7 @@
   <img src="KrishiMitra_logo/field (1).png" alt="Invictus - Krishi Mitra" width="200">
 </p>
 
-<h1 align="center">INVICTUS - KRISHI MITRA</h1>
+<h1 align="center">KRISHI MITRA</h1>
 
 ## 🌾 Overview
 
@@ -108,13 +108,6 @@ flutter run  # Run the app on a connected device or emulator
 
 [![Watch the Demo]](https://drive.google.com/file/d/1xzdxhbvq--dpTp5qZfWNoDL1zddFSWHf/view?usp=sharing)
 
-## 👥 Team Members
-
-- *Anmol Upadhyay*
-- *Ayushman Pal*
-- *Kaustubh Titare*
-- *Devesh Negi*
-- *Rishika Singh*
 
 ## 🤝 Contributing
 
